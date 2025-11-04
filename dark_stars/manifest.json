@@ -1,40 +1,43 @@
 {
-  "manifest_version": 2,
-  "version": "1.0.6",
-  "name": "Dark Stars (SKYL1NE EDITION)",
-  "theme": {
+    "manifest_version": 2,
+    "version": "1.0.7",
+    "name": "Dark Stars (SKYL1NE EDITION)",
+    "description": "Dunkles, dezentes Sternenthema mit transparenten Toolbars und zarten Akzenten.",
+    "author": "Silvery",
+    "homepage_url": "https://j6845.github.io/firefox_themes/",
+    "theme": {
     "images": {
-      "additional_backgrounds": [
+        "additional_backgrounds": [
         "images/0.png"
-      ]
+        ]
     },
-    "properties": {
-      "additional_backgrounds_alignment": [
-        "right top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
-    },
-    "colors": {
-      "toolbar": "rgba(48, 48, 48, 0.322)",
-      "toolbar_text": "rgb(255, 255, 255)",
-      "frame": "rgb(0, 0, 0)",
-      "tab_background_text": "rgb(190, 190, 190)",
-      "toolbar_field": "rgba(0, 0, 0, 0.5)",
-      "toolbar_field_text": "rgb(186, 186, 186)",
-      "tab_line": "rgba(101, 0, 255, 0.369)",
-      "popup": "rgb(0, 0, 0)",
-      "popup_text": "rgb(194, 194, 194)",
-      "icons": "rgb(255, 255, 255)",
-      "tab_background_separator": "rgb(186, 186, 186)",
-      "tab_loading": "rgb(48, 48, 48)"
-    }
+        "properties": {
+            "additional_backgrounds_alignment": [
+                "right top"
+            ],
+            "additional_backgrounds_tiling": [
+                "repeat"
+            ]
+        },
+        "colors": {
+            "toolbar": "rgba(48, 48, 48, 0.322)",
+            "toolbar_text": "rgb(255, 255, 255)",
+            "frame": "rgb(0, 0, 0)",
+            "tab_background_text": "rgb(190, 190, 190)",
+            "toolbar_field": "rgba(0, 0, 0, 0.5)",
+            "toolbar_field_text": "rgb(186, 186, 186)",
+            "tab_line": "rgba(101, 0, 255, 0.369)",
+            "popup": "rgb(0, 0, 0)",
+            "popup_text": "rgb(194, 194, 194)",
+            "icons": "rgb(255, 255, 255)",
+            "tab_background_separator": "rgb(186, 186, 186)",
+            "tab_loading": "rgb(48, 48, 48)"
+        }
   },
-  "browser_specific_settings": {
-    "gecko": {
-        "id": "pinkstars-editedNICE@silvery.local",
-        "update_url": "https://j6845.github.io/firefox_themes/updates.json"
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "pinkstars-editedNICE@silvery.local",
+            "update_url": "https://j6845.github.io/firefox_themes/updates.json"
+        }
     }
-  }
 }

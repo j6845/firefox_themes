@@ -3,8 +3,8 @@
     "pinkstars-edited1@silvery.local": {
       "updates": [
         {
-          "version": "1.0.6",
-          "update_link": "https://j6845.github.io/firefox_themes/24c34ce40a184b5bbf3f-1.0.6.xpi",
+          "version": "1.0.7",
+          "update_link": "https://j6845.github.io/firefox_themes/24c34ce40a184b5bbf3f-1.0.7.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "91.0"
