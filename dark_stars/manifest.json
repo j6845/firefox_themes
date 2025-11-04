@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "name": "Dark Stars (SKYL1NE EDITION)",
   "theme": {
     "images": {
@@ -33,8 +33,8 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "pinkstars-editedNICE@silvery.local",
-      "update_url": "https://z0r.de.cool/updates.json"
+        "id": "pinkstars-editedNICE@silvery.local",
+        "update_url": "https://j6845.github.io/firefox_themes/updates.json"
     }
   }
 }
